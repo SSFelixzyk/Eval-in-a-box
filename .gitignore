@@ -1,0 +1,21 @@
+# General
+.DS_Store
+node_modules/
+
+# Python / Backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Vercel
+.vercel/
+
+# IDEs
+.vscode/
+.idea/
